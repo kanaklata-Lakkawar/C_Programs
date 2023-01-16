@@ -9,7 +9,7 @@ int main()
     if(num>0)
           printf(" %d Number is Positive",&num);
      else
-          printf(" The Number is Negative");
+          printf(" %d Number is Negative",&num);
 
     return 0;
 }
