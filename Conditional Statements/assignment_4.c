@@ -9,7 +9,7 @@ int main()
     
     if (year%4==0 && year%100!=0 || year%400==0)
     {
-     printf(" %d year is Leap Year",year);
+     printf(" %d Year is Leap Year",year);
     }
        
     else
