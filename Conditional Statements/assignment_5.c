@@ -13,8 +13,8 @@ int main()
         
     else
     {
-    
+    printf(" Sorry you are not eligible for vote");
     }
-       printf(" Sorry you are not eligible for vote");
+       
     return 0;
 }
