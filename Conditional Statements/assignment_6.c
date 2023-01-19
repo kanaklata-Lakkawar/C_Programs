@@ -7,7 +7,10 @@ int main()
     printf(" Enter value of m ");
     scanf("%d",&m);
     if(m>0)
-        printf(" n=1");
+    {
+    printf(" n=1");
+    }
+        
     if(m==0)
         printf(" n=0");
     if(m<0)
