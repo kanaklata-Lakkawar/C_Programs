@@ -12,7 +12,10 @@ int main()
     }
         
     if(m==0)
-        printf(" n=0");
+    {
+     printf(" n=0");   
+    }
+        
     if(m<0)
         printf(" n=-1");
 
