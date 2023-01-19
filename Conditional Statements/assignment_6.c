@@ -21,8 +21,10 @@ int main()
       printf(" n=-1");  
     }
         
-
     else
+    {
         printf(" n is not present");
+    }
+    
     return 0;
 }
