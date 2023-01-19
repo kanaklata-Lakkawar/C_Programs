@@ -17,7 +17,10 @@ int main()
     }
         
     if(m<0)
-        printf(" n=-1");
+    {
+      printf(" n=-1");  
+    }
+        
 
     else
         printf(" n is not present");
