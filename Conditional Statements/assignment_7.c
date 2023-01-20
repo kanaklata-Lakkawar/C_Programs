@@ -10,9 +10,7 @@ int main()
     scanf("%d",&b);
      printf(" Enter 3rd Number=\n");
     scanf("%d",&c);
-    printf(" 1st Number=12\n");
-    printf(" 2nd Number=25\n");
-    printf(" 3rd Number=52\n");
+  
     if(a>b)
     {
         if(a>c)
