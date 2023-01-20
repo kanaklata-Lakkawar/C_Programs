@@ -3,7 +3,7 @@
 
 int main()
 {
-    int a=12,b=25,c=52;
+    int a,b,c;
     printf(" 1st Number=12\n");
     printf(" 2nd Number=25\n");
     printf(" 3rd Number=52\n");
