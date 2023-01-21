@@ -14,12 +14,12 @@ int main()
     if(total>=180)
     {
       if (maths>=65 && phy>=55 && chem>=50)
-        printf("The candidate is eligible for admission");
+           printf("The candidate is eligible for admission");
     }
 
     else if(maths>=65 && total>=140)
     {
-        printf("\nThe candidate is eligible for admission");
+            printf("\nThe candidate is eligible for admission");
     }
     else
         {
