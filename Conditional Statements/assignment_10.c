@@ -12,7 +12,7 @@ int main()
      else if(ch>='A' && ch<='Z')
         printf("%c is Alphabet",ch);
     
-           else if(ch>=48 && ch<=57)
+     else if(ch>=48 && ch<=57)
             printf("%c is Digit",ch);
     
                else
