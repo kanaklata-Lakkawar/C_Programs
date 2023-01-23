@@ -14,6 +14,7 @@ int main()
     
            else if(ch>=48 && ch<=57)
             printf("%c is Digit",ch);
+    
                else
                 printf("%c is Special Character",ch);
     return 0;
