@@ -10,6 +10,7 @@ int main()
      scanf("%f",&chem);
     printf("Enter Maths Marks = ");
      scanf("%f",&compApp);
+  
     total=phy+chem+compApp;
     printf("Roll No : 784\n");
     printf("Name of Student : James\n");
