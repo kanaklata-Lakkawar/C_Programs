@@ -19,9 +19,11 @@ int main()
   
     if(percentage>=70 && percentage<=100)
     printf("Division = First\n");
+  
     if(percentage>=50 && percentage<=70)
     printf("Division = Second\n");
+  
     else
-            printf("Division = Third\n");
+        printf("Division = Third\n");
     return 0;
 }
