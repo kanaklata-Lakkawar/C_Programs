@@ -8,6 +8,7 @@ int main()
     scanf("%c",&ch);
      if(ch>='a' && ch<='z')
         printf("%c is Alphabet",ch);
+    
      else if(ch>='A' && ch<='Z')
         printf("%c is Alphabet",ch);
            else if(ch>=48 && ch<=57)
