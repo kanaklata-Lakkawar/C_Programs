@@ -15,10 +15,6 @@ int main()
     
 
    
-    {
-        i++;
-     printf("%d\t",i);
-    }while(i<10);
-    }
+   
 
 */
