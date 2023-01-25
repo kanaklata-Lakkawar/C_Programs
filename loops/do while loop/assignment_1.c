@@ -3,10 +3,6 @@
 
 int main()
 {
-   
-    return 0;
-}
-
     Do while
     {
     int i;
@@ -19,4 +15,8 @@ int main()
     }while(i<10);
     }
 
-*/
+    return 0;
+}
+
+   
+
