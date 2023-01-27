@@ -11,6 +11,6 @@ int main()
 
     i++;
     }
-printf(" The Sum of 10 Natural Numbers upto 7 terms : %d\n",sum);
+printf(" The Sum of 7 Natural Numbers upto 7 terms : %d\n",sum);
     return 0;
 }
