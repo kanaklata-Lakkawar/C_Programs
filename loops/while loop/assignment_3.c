@@ -1,4 +1,4 @@
-
+//C program to print 10 numbers from keyboard and find their sum and average//
 
 
 #include <stdio.h>
