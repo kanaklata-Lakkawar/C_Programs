@@ -11,13 +11,10 @@ int main()
     for(i=0;i<11;i++)
     {
     printf("%d\n",i);
-   
     sum+=i;
-         printf("The sum of Numbers is : %d\n",sum);
+    printf("The sum of Numbers is : %d\n",sum);
     avg=sum/10.0;
-        printf("The Average is : %f\n",avg);
+    printf("The Average is : %f\n",avg);
     }
-   
-    
-    return 0;
+  return 0;
 }
