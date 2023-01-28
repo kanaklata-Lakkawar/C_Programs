@@ -8,10 +8,10 @@ int main()
 {
     int i=0,sum=0;
     float avg=0;
-    while(i<11)
+    for(i=0;i<11;i++)
     {
     printf("%d\n",i);
-    i++;
+   
     sum+=i;
     avg=sum/10.0;
     }
