@@ -1,3 +1,6 @@
+//C program to print 10 numbers frim keyboard and find their average and sum //
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
