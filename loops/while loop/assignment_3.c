@@ -15,7 +15,7 @@ int main()
     sum+=i;
     avg=sum/10.0;
     }
-    printf("The sum of Numbers is : %d\n",sum);
-    printf("The Average is : %f\n",avg);
+    printf(" The sum of Numbers is : %d\n",sum);
+    printf(" The Average is : %f\n",avg);
     return 0;
 }
