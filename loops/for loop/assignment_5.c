@@ -3,7 +3,7 @@
 
 int main()
 {
-    int i=1;
+    int i;
     while (i<11)
     {
     printf(" 15 X %d = %d\n",i,i*15);
