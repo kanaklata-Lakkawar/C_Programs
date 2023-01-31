@@ -4,10 +4,9 @@
 int main()
 {
     int i;
-    while (i<11)
+    for (i=1;i<11;i++)
     {
     printf(" 15 X %d = %d\n",i,i*15);
-    i++;
     }
     return 0;
 }
