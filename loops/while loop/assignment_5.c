@@ -1,3 +1,5 @@
+// C program to display multiplication of given integer //
+
 #include <stdio.h>
 #include <stdlib.h>
 
