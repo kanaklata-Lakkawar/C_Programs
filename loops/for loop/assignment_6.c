@@ -8,9 +8,9 @@ int main()
     {
       for(j=1;j<11;j++)
       {
-      
+      printf("%d X %d = %d\n",i,j,i*j);
       }
-        printf("%d X %d = %d\n",i,j,i*j);
+        
     }
     printf("\n");
     return 0;
