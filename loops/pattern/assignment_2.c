@@ -1,4 +1,4 @@
-
+// C program to print pattern like right angle triangle with numbers//
 
 
 #include <stdio.h>
