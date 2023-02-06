@@ -1,4 +1,4 @@
-// //
+// C program to make such a pattern like right angle triangle with numbers increased by 1//
 
 
 #include <stdio.h>
