@@ -1,4 +1,4 @@
-// C program to make such a pattern like a pyramid with numbers increased by 1//
+// C program to make such a pattern like a pyramid with numbers increased by 1 //
 
 
 #include <stdio.h>
