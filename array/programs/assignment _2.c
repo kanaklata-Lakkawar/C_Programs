@@ -3,7 +3,7 @@
 
 int main()
 {
-////
+//   //
 //int a[3]={2,5,7};
 int n=3;
 int a[n];
