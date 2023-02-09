@@ -4,10 +4,10 @@
 int main()
 {
 // c program to read n number of value in an array and display it in reverse order  //
-//int a[3]={2,5,7};
+
 int n=3;
 int a[n];
-     printf("Enter size of an array :");
+     printf("Enter size of an array :");//int a[3]={2,5,7};
     scanf("%d",&n);
 int l=sizeof a/sizeof a[0];
 for(int i=0;i<l;i++)
