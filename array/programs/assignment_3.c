@@ -1,4 +1,4 @@
-//   //
+// C program to find the sum of all elements of the array.   //
 
 
 #include <stdio.h>
