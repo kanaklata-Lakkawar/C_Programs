@@ -1,4 +1,4 @@
-//    //
+//  C program to find unique element in the array  //
 
 
 #include <stdio.h>
