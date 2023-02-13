@@ -1,4 +1,4 @@
-//   //
+// C program for a 2D array of size 3x3  //
 
 
 #include <stdio.h>
