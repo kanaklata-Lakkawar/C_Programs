@@ -1,4 +1,4 @@
-//   //
+//  c program  to input a string and print it  //
 
 
 #include <stdio.h>
