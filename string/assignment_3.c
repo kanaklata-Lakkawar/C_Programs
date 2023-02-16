@@ -1,4 +1,4 @@
-//    //
+//  C program to separate the individual characters from a string  //
 
 #include <stdio.h>
 #include <stdlib.h>
