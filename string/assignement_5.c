@@ -1,5 +1,5 @@
 
-//    //
+//  C program to to count the total number of words in a string  //
 
 #include <stdio.h>
 #include <stdlib.h>
