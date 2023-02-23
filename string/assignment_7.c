@@ -1,5 +1,5 @@
 
-//   //
+// C program to concatenates two strings manually  //
 
 #include <stdio.h>
 #include <stdlib.h>
