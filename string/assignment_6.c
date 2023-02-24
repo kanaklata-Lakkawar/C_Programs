@@ -1,5 +1,5 @@
 
-//   //
+// Write a program in c to count total number of vowels or consonant in a string   //
 
 #include <stdio.h>
 #include <stdlib.h>
