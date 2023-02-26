@@ -18,6 +18,3 @@ int main()
     printf("Reverse = %d",reverse);
     return 0;
 }
-/*321
-32  R- 1   10
-21   */
