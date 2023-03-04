@@ -1,5 +1,5 @@
 
-//   //
+// C program to check whether 2 two numbers are equal or not   //
 
 #include <stdio.h>
 #include <stdlib.h>
