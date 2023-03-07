@@ -1,4 +1,4 @@
-//   //
+// C program to print  first 10 natural numbers  //
 
 #include <stdio.h>
 #include <stdlib.h>
