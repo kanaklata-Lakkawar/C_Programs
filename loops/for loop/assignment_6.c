@@ -1,4 +1,4 @@
-//   //
+//  C program to print table //
 
 #include <stdio.h>
 #include <stdlib.h>
