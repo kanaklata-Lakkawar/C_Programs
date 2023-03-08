@@ -1,5 +1,5 @@
 
-//   //
+// C program to print sum of odd 10 natural numbers  //
 
 #include <stdio.h>
 #include <stdlib.h>
