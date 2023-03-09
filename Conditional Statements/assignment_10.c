@@ -1,4 +1,4 @@
-//   //
+// c program to check whether a character,digit or special character  //
 
 
 #include <stdio.h>
