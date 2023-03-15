@@ -10,8 +10,8 @@ int main()
     scanf("%d",&n);
     while(n!=0)
     {
-        reverse=reverse*10+n%10;//1 //1 2
-        n=n/10;//32  3
+        reverse=reverse*10+n%10;
+        n=n/10;
     }
     printf("Reverse = %d",reverse);
     return 0;
